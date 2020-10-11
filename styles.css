@@ -1,3 +1,7 @@
- .purchased-items-slider>.owl-wrapper-outer>.owl-wrapper>.owl-item {
-     width: auto !important;
- }
+.purchased-items-slider > .owl-wrapper-outer > .owl-wrapper > .owl-item {
+  width: auto !important;
+}
+
+ol.carousel-indicators {
+  z-index: 300;
+}
